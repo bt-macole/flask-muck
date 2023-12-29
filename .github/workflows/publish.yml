@@ -22,7 +22,7 @@ jobs:
       #   run: pip install hatch
       - name: Publish to Pypi
         run: |
-          echo "VERSION: ${{ github.ref }}"
+          echo "VERSION: ${{ github.event.release.tag_name }}"
           # hatch version ${{ github.ref }}
           # hatch build
           # hatch publish -n
