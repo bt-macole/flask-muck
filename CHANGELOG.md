@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/bt-macole/flask-muck/compare/v0.2.1...v0.2.2) (2023-12-29)
+
+
+### Bug Fixes
+
+* test tag name event thing ([2e30ccd](https://github.com/bt-macole/flask-muck/commit/2e30ccd41041f804657195c1dda75853a3bd1142))
+
 ## [0.2.1](https://github.com/bt-macole/flask-muck/compare/v0.2.0...v0.2.1) (2023-12-29)
 
 
