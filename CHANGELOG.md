@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/bt-macole/flask-muck/compare/v0.2.0...v0.2.1) (2023-12-29)
+
+
+### Bug Fixes
+
+* need the token, yo ([d483e79](https://github.com/bt-macole/flask-muck/commit/d483e798df48c8052a922066678b52bc5e3fd907))
+
 ## 0.2.0 (2023-12-29)
 
 
